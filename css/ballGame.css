@@ -1,0 +1,20 @@
+body{
+  background-color: beige;
+}
+#box{
+  background-color: rgba(127, 150, 255, 0.548);
+  width: 900px;
+  height: 400px;
+  margin: auto;
+  overflow: hidden;
+  margin-top: 10vh;
+}
+#ball{
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  position: relative;
+  background-image:conic-gradient(rgba(255, 0, 0, 0.315),rgba(72, 255, 0, 0.39));
+  border: indigo solid 1px;
+  top: 10px;
+}
